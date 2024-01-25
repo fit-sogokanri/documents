@@ -5,7 +5,7 @@
 
 ### 説明等
 - テンプレートのファイルです。ダウンロードして使用してください。  
-[部員名簿 テンプレート]()(xlsx)  
+[部員名簿 テンプレート](https://github.com/fit-sogokanri/documents/raw/main/member-list/distribution/%E9%83%A8%E5%93%A1%E5%90%8D%E7%B0%BF-%E3%83%86%E3%83%B3%E3%83%97%E3%83%AC%E3%83%BC%E3%83%88.xlsx)(xlsx)  
 <br>
 
 - 提出先

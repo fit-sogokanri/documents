@@ -7,7 +7,6 @@
 ### 説明等
 - テンプレートのファイルです。ダウンロードして使用してください。  
 [令和5年度年間活動報告書](https://github.com/fit-sogokanri/documents/blob/main/annual-activity-report/distribution/%E5%B9%B4%E9%96%93%E6%B4%BB%E5%8B%95%E5%A0%B1%E5%91%8A%E6%9B%B8-%E3%83%86%E3%83%B3%E3%83%97%E3%83%AC%E3%83%BC%E3%83%88.docx)(docx)  
-<br>
 
 - 提出先  
   提出は以下のフォームにお願い致します。(bene.fit.ac.jpのアカウントログインが必要です) <br>

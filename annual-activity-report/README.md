@@ -1,17 +1,16 @@
 福岡工業大学 学生自治会 総合管理事務局
-# 準備中です・・・・
-まだダウンロード等はしないでください(3月20日更新)
+
 ## 令和5年度年間活動報告書
-### 令和5年度3月(令和6年3月)版
+### (3月26日更新)
 
 ### 説明等
 - テンプレートのファイルです。ダウンロードして使用してください。  
-[令和5年度年間活動報告書](https://github.com/fit-sogokanri/documents/blob/main/annual-activity-report/distribution/%E5%B9%B4%E9%96%93%E6%B4%BB%E5%8B%95%E5%A0%B1%E5%91%8A%E6%9B%B8-%E3%83%86%E3%83%B3%E3%83%97%E3%83%AC%E3%83%BC%E3%83%88.docx)(docx)  
+[令和5年度年間活動報告書](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2Ffit-sogokanri%2Fdocuments%2Fmain%2Fannual-activity-report%2Fdistribution%2F%25E5%25B9%25B4%25E9%2596%2593%25E6%25B4%25BB%25E5%258B%2595%25E5%25A0%25B1%25E5%2591%258A%25E6%259B%25B8-%25E3%2583%2586%25E3%2583%25B3%25E3%2583%2597%25E3%2583%25AC%25E3%2583%25BC%25E3%2583%2588.docx&wdOrigin=BROWSELINK)(docx)  
 
 - 提出先  
   提出は以下のフォームにお願い致します。(bene.fit.ac.jpのアカウントログインが必要です) <br>
-  Microsoft Formsより [書類の説明](./docs/書類の説明.md)の「2.記入内容の説明」で示したpdfファイル を提出してください。<br>
-4月1日16時30分より提出できるようになります。    
+  Microsoft Formsより [書類の説明](./docs/書類の説明.md)の「2.記入内容の説明」で示したファイル名の<ins>**pdfファイル**</ins>を提出してください。<br>
+4月1日16時より提出できるようになります。    
   [提出先フォーム](https://forms.office.com/r/bC9b0rd69k)  
   <ins>団体代表者が提出</ins>してください。
 

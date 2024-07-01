@@ -5,16 +5,16 @@
 
 ### 説明等
 - テンプレートのファイルです。ダウンロードして使用してください。  
-[部員名簿 テンプレート](https://github.com/fit-sogokanri/documents/raw/main/member-list/distribution/%E9%83%A8%E5%93%A1%E5%90%8D%E7%B0%BF-%E3%83%86%E3%83%B3%E3%83%97%E3%83%AC%E3%83%BC%E3%83%88.xlsx)(xlsx)  
+[部員名簿 テンプレート](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2Ffit-sogokanri%2Fdocuments%2Fmain%2FR6-07member-list%2Fdistribution%2F%25E9%2583%25A8%25E5%2593%25A1%25E5%2590%258D%25E7%25B0%25BF-%25E3%2582%25B5%25E3%2583%25BC%25E3%2582%25AF%25E3%2583%25AB%25E5%2590%258D.xlsx&wdOrigin=BROWSELINK)(xlsx)  
 <br>
 
 - 提出先
   提出は以下のフォームにお願い致します。(bene.fit.ac.jpのアカウントログインが必要です)  
-  [提出先フォーム](https://forms.office.com/r/GdMbdRb0Tw)  
+  [提出先フォーム](https://forms.office.com/r/QpT50mFwA5)  
   <ins>団体代表者が提出</ins>してください。
 
 - 提出受付期間  
-  令和6年2月1日～令和6年2月29日  
+  令和6年7月31日(水)23:59まで
 
 - 下記の参考資料を参照して記入してください。  
   [書類の説明](./docs/書類の説明.md)  
